@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script type="text/javascript" src="js/prototype.js"></script>
+    <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="js/lightbox.js"></script>
+    <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sriracha">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Martian%20Mono">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Young-Serif">
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+    <div class="container">
+      <div class="row"> </div>
+      <div class="row">
+        <div class="col-md-4 col-lg-8"><br>
+        </div>
+        <div style="text-align: center"> <span style="font-family: Young-Serif">
+            Pornprapa Mahuttanawirioj</span> </div>
+      </div>
+      <div class="row">
+        <div class="sidenav"><a href="Index.html"><img src="../resume301/images/profile1.png"
+
+              alt="profile1" style="width: 150px; border-radius:50%"></a> <a href="About.html">About</a>
+          <a href="CareerObjective.html">Career Objective</a> <a href="Education.html">Education</a>
+          <a href="Activities.html">Activities</a> <a href="Skills.html">Skills</a></div>
+        <div class="content"><br>
+          <br>
+          <h2>Activities</h2>
+          <br>
+          <p> </p>
+          <li>2020-Present : was a volunteer teacher at grade 6-8 in <br>
+            the Sunday Buddhist Study Center, Wat Anongkharam </li>
+          <p></p>
+        </div>
+      </div>
+      <div class="content"><br>
+        <h4>Part I</h4>
+        <br>
+        <div class="row">
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/act4.jpg">
+                <img src="image/Activities/act4.jpg" alt="act4" height="600" width="600">
+              </a>
+              <div class="desc">Painting with Trees</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/act3.jpg">
+                <img src="image/Activities/act3.jpg" alt="act3" height="600" width="600">
+              </a>
+              <div class="desc">Painting with Trees</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/act2.jpg">
+                <img src="image/Activities/act2.jpg" alt="act2" height="600"
+
+                  width="600"> </a>
+              <div class="desc">Painting with Trees</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/act1.jpg">
+                <img src="image/Activities/act1.jpg" alt="act1" height="600" width="600">
+              </a>
+              <div class="desc">Painting with Trees</div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <h4>Part II</h4>
+        <br>
+        <div class="row">
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/mt1.jpg"> <img src="image/Activities/mt1.jpg"
+
+                  alt="mt1" height="400" width="400"> </a>
+              <div class="desc">Rice Porridge</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/mt2.jpg"> <img src="image/Activities/mt2.jpg"
+
+                  alt="mt2" height="400" width="400"> </a>
+              <div class="desc">Rice Porridge</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/mt3.jpg"> <img src="image/Activities/mt3.jpg"
+
+                  alt="mt3" height="400" width="400"> </a>
+              <div class="desc">Rice Porridge</div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <h4>Part III</h4>
+        <br>
+        <div class="row">
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/act5.jpg"> <img src="image/Activities/act5.jpg"
+
+                  alt="act5" height="400" width="400"> </a>
+              <div class="desc">Origami Part I</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/origami1.jpg"> <img src="image/Activities/origami1.jpg"
+
+                  alt="og" height="400" width="400"> </a>
+              <div class="desc">Origami Part II</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/origami2.jpg"> <img src="image/Activities/origami2.jpg"
+
+                  alt="og" height="400" width="400"> </a>
+              <div class="desc">Origami Part II</div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <h4>Part IV</h4>
+        <br>
+        <div class="row">
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/outdoor_study.jpg"> <img src="image/Activities/outdoor_study.jpg"
+
+                  alt="od" height="400" width="400"> </a>
+              <div class="desc">School Trip</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/NewYears.jpg"> <img src="image/Activities/NewYears.jpg"
+
+                  alt="ny" height="400" width="400"> </a>
+              <div class="desc">New Years and National Children's Day</div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+            <div class="gallery"> <a rel="lightbox[roadtrip]" href="image/Activities/meeting1.jpg"> <img src="image/Activities/meeting1.jpg"
+
+                  alt="mt3" height="400" width="400"> </a>
+              <div class="desc">Meeting</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+ font-family: "Martian Mono"
+}
+
+/* Style the side navigation */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #1E5B5D;
+  overflow-x: hidden;
+}
+
+
+/* Side navigation links */
+.sidenav a {
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+  background-color: #1E5B5D;
+  color: green; 
+}
+
+/* Style the content */
+.content {
+  margin-left: 200px;
+  padding-left: 20px;
+}
+        h2 {
+  font-family: "Sriracha", Cadson Denmak;
+}
+      h4 {
+  font-family: "Sriracha", Cadson Denmak;
+}
+      
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+}
+
+div.gallery:hover {
+  border: 5px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}
+      
+</style>
+  </body>
+</html>
